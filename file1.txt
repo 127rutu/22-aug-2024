@@ -4,3 +4,4 @@ cbabu
 how are you
 
 >>>>>>> feature2
+updated file using vsc
